@@ -12,7 +12,7 @@ For more information, read [this blog post](https://golangprojectstructure.com/c
 package main
 
 import (
-	"github.com/theTardigrade/golang-caesarCipher"
+	caesarCipher "github.com/theTardigrade/golang-caesarCipher"
 
 	"fmt"
 )
